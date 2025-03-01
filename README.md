@@ -6,7 +6,7 @@ Saya **Safira Aliyah Azmi (NIM: 23092093)** mengerjakan *Tugas Praktikum 2* dala
 
 ## Penjelasan Atribut dan Methods
 
-### 1. Kelas `Baju`
+### 1. Class `Baju`
 #### Atribut:
 - `untuk`: Menyimpan informasi untuk siapa baju tersebut (misalnya, "Kucing" atau "Anjing").
 - `size`: Menyimpan ukuran baju (misalnya, "S", "M", "L").
@@ -36,7 +36,7 @@ Saya **Safira Aliyah Azmi (NIM: 23092093)** mengerjakan *Tugas Praktikum 2* dala
 
 ---
 
-### 2. Kelas `Aksesoris`
+### 2. Class `Aksesoris`
 #### Atribut:
 - `jenis`: Menyimpan jenis aksesoris (misalnya, "Kalung", "Topi").
 - `bahan`: Menyimpan bahan aksesoris (misalnya, "Nylon", "Kain").
@@ -66,7 +66,7 @@ Saya **Safira Aliyah Azmi (NIM: 23092093)** mengerjakan *Tugas Praktikum 2* dala
 
 ---
 
-### 3. Kelas `PetShop` 
+### 3. Class `PetShop` 
 #### Atribut:
 - `id`: Menyimpan ID produk.
 - `nama_produk`: Menyimpan nama produk.
