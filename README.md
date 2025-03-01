@@ -166,7 +166,8 @@ Setelah data baru dimasukkan, program menampilkan semua data produk (awal dan ba
    ![Image](https://github.com/user-attachments/assets/3ed528cb-b03e-4d75-9426-749333dd2b18)
 
 2. **PYTHON**:
-   
+   ![Image](https://github.com/user-attachments/assets/96d8f317-9423-41c8-be87-1dee60f2ed3b)
+
 3. **JAVA**:
    
 4. **PHP**:
