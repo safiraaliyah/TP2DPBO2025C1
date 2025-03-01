@@ -2,8 +2,6 @@
 ## Janji
 Saya **Safira Aliyah Azmi (NIM: 23092093)** mengerjakan *Tugas Praktikum 2* dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahannya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
----
-
 ## Penjelasan Atribut dan Methods
 
 ### 1. Class `Baju`
@@ -34,8 +32,6 @@ Saya **Safira Aliyah Azmi (NIM: 23092093)** mengerjakan *Tugas Praktikum 2* dala
   public function set_untuk($untuk) { $this->untuk = $untuk; }
   ```
 
----
-
 ### 2. Class `Aksesoris`
 #### Atribut:
 - `jenis`: Menyimpan jenis aksesoris (misalnya, "Kalung", "Topi").
@@ -63,8 +59,6 @@ Saya **Safira Aliyah Azmi (NIM: 23092093)** mengerjakan *Tugas Praktikum 2* dala
   public function get_jenis() { return $this->jenis; }
   public function set_jenis($jenis) { $this->jenis = $jenis; }
   ```
-
----
 
 ### 3. Class `PetShop` 
 #### Atribut:
@@ -95,8 +89,6 @@ Saya **Safira Aliyah Azmi (NIM: 23092093)** mengerjakan *Tugas Praktikum 2* dala
   public function get_id() { return $this->id; }
   public function set_id($id) { $this->id = $id; }
   ```
-
----
 
 ## Alur Program
 
@@ -138,8 +130,6 @@ Setelah data baru dimasukkan, program menampilkan semua data produk (awal dan ba
 - Program menggunakan cin dan cout untuk input dan output.
 - Input diolah menggunakan stringstream untuk memisahkan data.
 
----
-
 ### PHP
 1. **Inisialisasi Data Awal**
 - Program memulai dengan menginisialisasi beberapa data produk awal.
@@ -157,8 +147,6 @@ Setelah data baru dimasukkan, program menampilkan semua data produk (awal dan ba
 4. **Integrasi dengan HTML**
 - Program menggunakan PHP untuk meng-generate konten HTML secara dinamis.
 - Data dari array $list_petshop di-loop dan ditampilkan dalam tabel HTML.
----
-
 
 ## Dokumentasi Output
 
@@ -169,5 +157,7 @@ Setelah data baru dimasukkan, program menampilkan semua data produk (awal dan ba
    ![Image](https://github.com/user-attachments/assets/fda71006-634c-4db7-9bba-8a353268bdbb)
 
 3. **JAVA**:
-   
+   ![Image](https://github.com/user-attachments/assets/0fa17e19-897f-4e57-99f2-de2c4277ff04)
+
 4. **PHP**:
+  ![Image](https://github.com/user-attachments/assets/65c303d8-c85f-42c4-b0c9-4a3dd5677b26)
