@@ -4,6 +4,9 @@ Saya **Safira Aliyah Azmi (NIM: 23092093)** mengerjakan *Tugas Praktikum 2* dala
 
 ## Penjelasan Atribut dan Methods
 
+## Diagram
+![Image](https://github.com/user-attachments/assets/d4e107d3-3407-4e1b-84f5-8a45c7aa6ad2)
+
 ### 1. Class `Baju`
 #### Atribut:
 - `untuk`: Menyimpan informasi untuk siapa baju tersebut (misalnya, "Kucing" atau "Anjing").
