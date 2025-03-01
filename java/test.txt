@@ -1,0 +1,14 @@
+TESTCASE TP2
+
+Jumlah produk baru: 10
+
+006 Kerah_Anjing 45000 12 Kerah Kulit Hitam Anjing M PawGuard
+007 Mainan_Kucing 30000 20 Bola Mainan Warna-warni Kucing S PurrPlay
+008 Kalung_Kucing 55000 15 Kalung Bel Kuning Kucing M CatCharm
+009 Kalung_Anjing 60000 10 Kalung Nylon Biru Anjing M PawGuard
+010 Sweater_Kucing 80000 8 Pakaian Wol Merah Kucing L CatStyle
+011 Topi_Anjing 40000 12 Topi Kain Coklat Anjing S DogCap
+012 Jas_Hujan_Kucing 130000 5 Jas_Hujan Waterproof Kuning Kucing L RainCat
+013 Bandana_Anjing 22000 18 Bandana Katun Hitam Anjing XS DogStyle
+014 Kerah_Kucing 50000 14 Kerah Kulit Warna-warni Kucing M PurrPlay
+015 Mainan_Anjing 35000 20 Bola Mainan Merah Anjing S FunDog
