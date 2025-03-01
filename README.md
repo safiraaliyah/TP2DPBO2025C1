@@ -163,7 +163,8 @@ Setelah data baru dimasukkan, program menampilkan semua data produk (awal dan ba
 ## Dokumentasi Output
 
 1. **C++**:
-   
+   ![Image](https://github.com/user-attachments/assets/3ed528cb-b03e-4d75-9426-749333dd2b18)
+
 2. **PYTHON**:
    
 3. **JAVA**:
